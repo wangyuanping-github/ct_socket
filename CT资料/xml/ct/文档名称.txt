@@ -1,0 +1,7 @@
+ctBarcodeMessage.xml
+ctConclusionResult.xml
+ctDeviceStatus.xml
+ctHeartBeatRequest.xml
+ctHeartBeatResponse.xml
+ctImageMessage.xml
+ctSortingResult.xml

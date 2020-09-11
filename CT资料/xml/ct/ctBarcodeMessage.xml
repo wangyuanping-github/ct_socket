@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+    <Header>
+        <MessageName>ctBarcodeMessage</MessageName>
+        <MessageTime>2016-08-11T10:55:46+08:00</MessageTime>
+    </Header>
+    <Body>
+        <Barcode>123456789</Barcode>
+        <BillNo>c12345682</BillNo>
+    </Body>
+</Envelope>

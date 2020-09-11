@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+    <Header>
+        <MessageName>ctImageMessage</MessageName>
+        <MessageTime>2012-02-07T14:30:35+08:00</MessageTime>
+    </Header>
+    <Body>
+        <PRN >1063163730100</PRN>
+        <Barcode>11658c33514</Barcode>
+        <BillNo>c4861245</BillNo>
+        <Length> 500</Length>
+        <ForceSplit>0</ForceSplit>
+    </Body>
+</Envelope>
