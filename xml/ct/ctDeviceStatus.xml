@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+    <Header>
+        <MessageName>ctDeviceStatus</MessageName>
+        <MessageTime>2012-02-07T14:30:35+08:00</MessageTime>
+    </Header>
+    <Body>
+        <Status>4</Status>
+    </Body>
+</Envelope>

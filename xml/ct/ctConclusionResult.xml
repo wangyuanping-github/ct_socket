@@ -1,0 +1,23 @@
+NTCTTP/1.0 NOTIFY(CRLF)
+Content-Type:text/xml(CRLF)
+Content-Length:456(CRLF)
+(CRLF)
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+    <Header>
+        <MessageName>ctConclusionResult</MessageName>
+        <MessageTime>2017-05-07T14:30:35+08:00</MessageTime>
+    </Header>
+    <Body>
+        <Barcode>1063163730100</Barcode>
+        <BillNo>C1462821</BillNo>
+        <PRN>XT2080AD0120170427000036</PRN>
+        <UserId>0000001</UserId>
+        <Department>1</Department>
+        <JudgeResult>C</JudgeResult>
+        <JudgeCategory>0</JudgeCategory>
+        <JudgeTime>2017-05-07T14:30:30+08:00</JudgeTime>
+    </Body>
+</Envelope>

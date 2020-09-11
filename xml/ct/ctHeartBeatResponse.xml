@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+    <Header>
+        <MessageName>ctHeartBeatResponse</MessageName>
+        <MessageTime>2016-08-11T10:55:46+08:00</MessageTime>
+    </Header>
+    <Body>
+        <Source>CT</Source>
+        <Target>SS</Target>
+    </Body>
+</Envelope>

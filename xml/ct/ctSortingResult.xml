@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+    <Header>
+        <MessageName>ctSortingResult</MessageName>
+        <MessageTime>2012-02-07T14:30:35+08:00</MessageTime>
+    </Header>
+    <Body>
+        <Barcode>112269854</Barcode>
+        <BillNo>c112269854</BillNo>
+        <Result>1</Result>
+    </Body>
+</Envelope>
