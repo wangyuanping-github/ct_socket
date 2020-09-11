@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Envelope>
+	<Header>
+		<MessageName>ctHeartBeatRequest</MessageName>
+		<MessageTime>2020-07-28T16:27:33.297598+08:00</MessageTime>
+	</Header>
+	<Body>
+		<Source>ss</Source>
+		<Target>c12345682</Target>
+	</Body>
+</Envelope>
